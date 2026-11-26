@@ -51,7 +51,7 @@ The installer automatically verifies the original executable's SHA-256 hash and 
 
 ### Manual installation
 
-1. Download and extract the release.
+1. Download `Supreme.exe`.
 2. Close the game and launcher.
 3. Replace `Supreme.exe` in your game directory with the patched executable.
 4. Keep your existing `Display_Config.exe` and `winmm.dll` unchanged.
