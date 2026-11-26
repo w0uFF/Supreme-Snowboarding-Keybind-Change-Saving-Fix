@@ -2,7 +2,7 @@
 
 Download the patch : https://github.com/w0uFF/Supreme-Snowboarding-Keybind-Change-Saving-Fix/releases 
 
-Its a patch for `SupremeLight_9617efe6.zip` download it here:
+Its a patch for this game version `SupremeLight_9617efe6.zip` you can download the game here:
 https://www.speedrun.com/Supreme_snowboarding/resources/34dpx
 
 Community compatibility patch prepared for the exact `Supreme.exe` included in `SupremeLight_9617efe6.zip`, with the intention of preserving compatibility with Display Config 1.8.0. Not an official release or endorsed by launcher maintainers.
