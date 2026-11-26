@@ -1,5 +1,7 @@
 # Supreme Snowboarding — Keyboard Persistence Fix v0.1 (experimental)
 
+Download the patch : https://github.com/w0uFF/Supreme-Snowboarding-Keybind-Change-Saving-Fix/releases
+
 Community compatibility patch prepared for the exact `Supreme.exe` included in `SupremeLight_9617efe6.zip`, with the intention of preserving compatibility with Display Config 1.8.0. Not an official release or endorsed by launcher maintainers.
 
 ## Install
