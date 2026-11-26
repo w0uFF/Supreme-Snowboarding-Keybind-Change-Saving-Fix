@@ -41,7 +41,7 @@ Customize your controls directly in the game and keep them automatically, even a
 
 ### Automatic installation (recommended)
 
-1. Download and extract the release.
+1. Download both  `Supreme.exe` and `Install.ps1`.
 2. Close the game and launcher.
 3. Run `Install.ps1` using PowerShell.
 4. Select your Supreme Snowboarding installation folder.
